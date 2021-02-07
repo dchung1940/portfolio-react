@@ -1,0 +1,223 @@
+{
+  "main": {
+    "head_name":"Daniel Chung",
+    "name":"JooYong Daniel Chung",
+    "description":"Contact me at jdchung2@illinois.edu!",
+    "image":"Headshot.jpg",
+    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "jdchung2@illinois.edu",
+    "phone": "224-392-4454",
+    "linkedIn":"https://www.linkedin.com/in/daniel-chung-180910158/",
+    "resume":"https://uofi.box.com/shared/static/9aniu2v1ii0glurprf88ucxmfuogbewo.pdf",
+    "github":"https://github.com/dchung1940",
+    "street_add":"1324 Pfingsten Rd",
+    "rest_add":"Glenview, Illinois 60025",
+    "address":{
+      "street":"1324 Pfingsten Rd",
+      "city":"Glenview",
+      "state":"Illinois",
+      "zip": "60025"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"https://uofi.box.com/shared/static/9aniu2v1ii0glurprf88ucxmfuogbewo.pdf",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"http://instagram.com/tbaker_x",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/nordicgiant2/react-nice-resume",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"I love learning new things and exploring around new languages ",
+    "education":[
+      {
+        "school":"University of Illinois at Urbana-Champaign",
+        "college_1": "Grainger College of Engineering",
+        "degree":"Bachelors in Science in Computer Engineering",
+        "minor": "Minor in Computational Science and Engineering",
+        "graduated":"May 2021",
+        "GPA": "GPA: 3.80/4.00",
+        "detail_1":"James Scholar Honors",
+        "detail_2":"IEEE Eta Kappa Nu (HKN) Honors Society",
+        "detail_3":"Sargent and Lundy Engineering Scholarship, Recipient",
+        "detail_4":""
+      },
+      {
+        "school":"University Of Illinois at Urbana-Champaign",
+        "college_1": "College of Liberal Arts and Sciences",
+        "degree":"Bachelors in Science in Statistics",
+        "graduated":"May 2021",
+        "GPA": "GPA: 4.00/4.00",
+        "detail_1":"Certificate in Data Science",
+        "detail_2":"Jules D. Falzer Memorial Scholarship, Recipient",
+        "detail_3":"TechnipFMC Scholarship, Recipient",
+        "detail_4":""
+      }
+    ],
+    "work":[
+      {
+        "company":"Fernandez and Associates",
+        "title":"Intern",
+        "years":"July 2020 - August 2020",
+        "detail_1":"Analyzed the ongoing patent work with the firm’s patent attorney to discuss problems presented in the claim sets relating that of a biosensor at an introductory level and reviewed patents that were already filed",
+        "detail_2":"Cultivated an understanding of emerging technological trend and researched on computation of damages and reasonable royalties related to patent infringement"
+      },
+      {
+        "company":"Raytheon",
+        "title":"Intern",
+        "years":"May 2019 - August 2019",
+        "detail_1":"Analyzed the newly redesigned amplifier circuits for Evolved SeaSparrow Missile (ESSM) to identify any potential mistakes in the design and created general block diagrams for different technical design reviews accordingly",
+        "detail_2":"Developed multiple reuse design blocks that would reduce the cycle time of building new circuits, prevent the duplication of work from multiple engineers, and accelerate the simulation time of different circuit software"
+      },
+      {
+        "company":"Graduate Upper-Division Hall",
+        "title":"Resident Advisor",
+        "years":"August 2018 - Present",
+        "detail_1":"Provided academic counseling, career advice, and help with personal conflicts to the residents by holding consistent, weekly conversations, resulting in none of the residents to be held on to academic probation",
+        "detail_2":"Recruited new housing staff with the Resident Director by conducting a series of behavior interviews, assessing their interpersonal communication skills, conflict management skills, and positivity to see their fit in the hall community"
+      },
+      {
+        "company":"University ECE Service Shop",
+        "title":"Student Technician",
+        "years":"January 2018 - December 2018",
+        "detail_1":"Renovated and repaired technical equipments required in different laboratories to improve efficiencies within classroom settings and research projects",
+        "detail_2":"Trained technical skills to new hires to help them transition from the academic background in ECE to a professional environment"
+      }
+    ],
+    "activities":[
+      {
+        "org":"ECE Student Advancement Committee",
+        "title":"Co-Chair",
+        "years":"July 2020 - Present",
+        "detail_1":"Consulted with the ECE administration staff and professors on behalf of ECE student body regarding student development in technical curriculum courses and general concerns of students regarding the department and classes",
+        "detail_2":"Established overall committee agenda and administered all student-led ECE department events such as student advising sessions, consulting sessions technical elective classes, and hosting resume review sessions",
+        "website":"https://sac.ece.illinois.edu/meet-the-committee/",
+        "webtitle":" ECESAC Website"
+      },
+      {
+        "org":"Engineering Outreach Society (EOS)",
+        "title":"President",
+        "years":"June 2020 - Present",
+        "detail_1":"Oversaw the planning of weekly new engineering projects for the elementary students that would enhance their critical thinking, STEM interest, and teamwork skills through hands on experience in solving real world challenges",
+        "detail_2":"Identified and coordinated volunteering meetings with the staff of the elementary schools and sponsors to facilitate club growth and bring more opportunities to the volunteers, leading to increase in 30% membership",
+        "website":"https://publish.illinois.edu/engineeringoutreachsociety/exec-board/",
+        "webtitle":" EOS Website"
+      
+      },
+      {
+        "org":"Freshman Engineering Council",
+        "title":"Vice President",
+        "years":"October 2018 - May 2018",
+        "detail_1":"Researched various companies’ internship programs to inform freshmen engineers on the real life expectations of the employers from their interns",
+        "detail_2":"Illustrated the possibilities of internship to freshmen who are often discouraged by the companies in career fair by hosting talks on applications and referring to different school resources",
+        "website":"http://www.ec.illinois.edu/",
+        "webtitle":" Engineering Council Website"
+      }
+    ],
+    "skills":[
+      {
+        "name":"R",
+        "description":"blah blah blah",
+        "image":"r.jpg"
+      },
+      {
+        "name":"Python",
+        "description":"blah blah blah",
+        "image":"python.jpg"
+      },
+      {
+        "name":"C++",
+        "description":"blah ",
+        "image":"c++.jpg"
+      },
+      {
+        "name":"Git",
+        "description":"blah",
+        "image":"git.jpg"
+      },
+
+      {
+        "name":"SQL",
+        "description":"blah",
+        "image":"sql.jpg"
+      },
+      {
+        "name":"MongoDB",
+        "description":"blah",
+        "image":"mongo.jpg"
+      },
+      {
+        "name":"Neo4j",
+        "description":"blah",
+        "image":"neo4j.jpg"
+      },
+      {
+        "name":"Korean",
+        "description":"blah",
+        "image":"korean.jpg"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Covid-19 UIUC Resource App",
+        "category":"Created a convenient webpage that provides information about resources on Covid-19 for UIUC Students",
+        "image":"corona.jpg",
+        "url":"https://dchung1940.shinyapps.io/covid19_project/?_ga=2.66044270.17206748.1612673346-1916962343.1612673346"
+      },
+      {
+        "title":"Chicago Food Vendor Data Analysis",
+        "category":"Analyzed and investigated the different safety levels of various food vendors in Chicago",
+        "image":"pizza.jpg",
+        "url":"https://uofi.box.com/shared/static/m4kq0x22a1jp766y3htr74m0j4h1yvd8.html"
+      },
+      {
+        "title":"Data Analysis",
+        "category":"Analyzed numerous datasets using PPDAC Cycle. Stored in Github",
+        "image":"data_science.jpg",
+        "url":"https://github.com/dchung1940/data_analysis"
+      },
+      {
+        "title":"C++ Projects",
+        "category":"Contains various small projects, such as PhotoMosaic generator and random maze generator/solutions",
+        "image":"maze.jpg",
+        "url":"https://github.com/dchung1940/cplusplus_Proj"
+      },
+      {
+        "title":"Python Projects",
+        "category":"Various small projects using python, such as finding shortest path and determining machine to find positive movie reviews, have been implmented using AI techniques",
+        "image":"movie_review.jpg",
+        "url":"https://github.com/dchung1940/AI_Projects"
+      },
+      {
+        "title":"Image Classifier",
+        "category":"By using AWS and CUDA GPU Programming, this project had been created to find the best optimization for image detection to decrease the computing time",
+        "image":"neural_network.jpg",
+        "url":"https://github.com/dchung1940/image_detect"
+      }
+    ]
+  }
+}
