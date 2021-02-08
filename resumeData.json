@@ -2,14 +2,15 @@
   "main": {
     "head_name":"Daniel Chung",
     "name":"JooYong Daniel Chung",
-    "description":"Contact me at jdchung2@illinois.edu!",
+    "description":"I am currently looking for a Patent Engineering or Data Scientist position with a forward moving company.",
     "image":"Headshot.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "contact_me":"Contact me at jdchung2@illinois.edu!",
+    "bio":"I am passionate in collecting, analyzing, and investigating new datasets, developing a graphical models, and performing data managements skills. I also love learning about new technologies and understanding new patents. I hope to go to law school someday and become a Patent Lawyer.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "jdchung2@illinois.edu",
     "phone": "224-392-4454",
     "linkedIn":"https://www.linkedin.com/in/daniel-chung-180910158/",
-    "resume":"https://uofi.box.com/shared/static/9aniu2v1ii0glurprf88ucxmfuogbewo.pdf",
+    "resume":"https://uofi.box.com/shared/static/nw9lt4inobj0xw6w6d1d7yesgtfvzimj.pdf",
     "github":"https://github.com/dchung1940",
     "street_add":"1324 Pfingsten Rd",
     "rest_add":"Glenview, Illinois 60025",
@@ -20,7 +21,7 @@
       "zip": "60025"
     },
     "website": "http://www.timbakerdev.com",
-    "resumedownload":"https://uofi.box.com/shared/static/9aniu2v1ii0glurprf88ucxmfuogbewo.pdf",
+    "resumedownload":"https://uofi.box.com/shared/static/nw9lt4inobj0xw6w6d1d7yesgtfvzimj.pdf",
     "social":[
       {
         "name":"facebook",
