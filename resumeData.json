@@ -140,43 +140,43 @@
     "skills":[
       {
         "name":"R",
-        "description":"blah blah blah",
+        "description":"",
         "image":"r.jpg"
       },
       {
         "name":"Python",
-        "description":"blah blah blah",
+        "description":"",
         "image":"python.jpg"
       },
       {
         "name":"C++",
-        "description":"blah ",
+        "description":"",
         "image":"c++.jpg"
       },
       {
         "name":"Git",
-        "description":"blah",
+        "description":"",
         "image":"git.jpg"
       },
 
       {
         "name":"SQL",
-        "description":"blah",
+        "description":"",
         "image":"sql.jpg"
       },
       {
         "name":"MongoDB",
-        "description":"blah",
+        "description":"",
         "image":"mongo.jpg"
       },
       {
         "name":"Neo4j",
-        "description":"blah",
+        "description":"",
         "image":"neo4j.jpg"
       },
       {
         "name":"Korean",
-        "description":"blah",
+        "description":"",
         "image":"korean.jpg"
       }
     ]
